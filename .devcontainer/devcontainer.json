@@ -8,6 +8,7 @@
 	"customizations": {
 		"vscode": {
 			"settings": {
+				"editor.wordWrap": "on",
 				"latex-workshop.latex.clean.fileTypes": [
 					"*.aux",
 					"*.bbl",
